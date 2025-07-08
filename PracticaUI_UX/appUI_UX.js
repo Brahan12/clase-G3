@@ -16,4 +16,7 @@ function Access() {
     msg.textContent = "¡Bienvenido, " + user + "!";
     msg.style.color = "green";
   }
+
+
+  
 }
